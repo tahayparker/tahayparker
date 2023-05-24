@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 📫 How to reach me: https://tahayparker.github.io/tahayparker/
+📫 How to reach me: https://tahayparker.github.io/tahayparker/
 
-- Pronouns: he/him
+Pronouns: he/him
 
 <p>
 <a href="https://www.twitter.com/tahayparker"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=35></a>
