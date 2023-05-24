@@ -13,7 +13,7 @@ Pronouns: he/him
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahayparker&langs_count=10&layout=compact&theme=midnight-purple"></img></p>
 </details>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tahayparker)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tahayparker&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 ```text
