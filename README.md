@@ -10,7 +10,7 @@ Pronouns: he/him
 
 <details>
 <summary>Top Languages</summary>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahayparker&langs_count=10&layout=compact)](https://github.com/tahayparker/github-readme-stats)
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahayparker&langs_count=10&layout=compact"></img></p>
 </details>
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tahayparker&layout=compact)](https://github.com/tahayparker/github-readme-stats)
