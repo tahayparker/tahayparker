@@ -1,24 +1,8 @@
 ## Hi there 👋
 
-**tahayparker/tahayparker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
 - 📫 How to reach me: https://tahayparker.github.io/tahayparker/
 
 - Pronouns: he/him
-
-- About Me: 
 
 <p>
 <a href="https://www.twitter.com/tahayparker"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=35></a>
@@ -30,10 +14,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahayparker&langs_count=10&layout=compact)](https://github.com/tahayparker/github-readme-stats)
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tahayparker&layout=compact)](https://github.com/tahayparker/github-readme-stats)
-
-
-
-
 
 <!--START_SECTION:waka-->
 
