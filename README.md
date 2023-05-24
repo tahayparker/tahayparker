@@ -13,10 +13,11 @@ Pronouns: he/him
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahayparker&langs_count=10&layout=compact&theme=midnight-purple"></img></p>
 </details>
 
-[![Taha's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tahayparker&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-
-[![wakatime](https://wakatime.com/badge/user/dc8452f4-4528-440c-adf1-4e5859ea9cce.svg)](https://wakatime.com/@dc8452f4-4528-440c-adf1-4e5859ea9cce)
-
+<details>
+<summary>WakaTime Stats</summary>
+<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=tahayparker&layout=compact&theme=midnight-purple"></img></p>
+<a href="https://wakatime.com/badge/github/tahayparker/tahayparker"><img src="https://wakatime.com/badge/github/tahayparker/tahayparker.svg" alt="wakatime"></a>
+</details>
 
 <!--START_SECTION:waka-->
 ```text
