@@ -27,6 +27,9 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahayparker&show_icons=true&hide=issues,contribs, stars&count_private=true&theme=dark&locale=en" alt="tahayparker" /></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahayparker)](https://github.com/tahayparker/github-readme-stats)
+
+
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
