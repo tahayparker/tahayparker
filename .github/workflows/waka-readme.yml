@@ -21,5 +21,5 @@ jobs:
           SHOW_TIME: true
           LANG_COUNT: 10
           SHOW_MASKED_TIME: true
-          SHOW_TOTAL: 10
+          SHOW_TOTAL: true
           STOP_AT_OTHER: true
