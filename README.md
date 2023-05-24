@@ -26,3 +26,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/tahayparker/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=35></a></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahayparker&show_icons=true&locale=en" alt="tahayparker" /></p>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
