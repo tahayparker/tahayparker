@@ -1,7 +1,7 @@
 @font-face {
   font-family: "Alexana Neue";
   src: url(fonts/Alexana\ Neue.ttf);
-}
+  }
 
 body {
     margin: 0;
@@ -12,7 +12,6 @@ body {
     align-items: center;
     flex-direction: column;
     width: 100vw;
-    font-family: "Raleway", sans-serif;
   }
   
   .container {
