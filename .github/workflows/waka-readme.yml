@@ -5,11 +5,9 @@ on:
   schedule:
     - cron: "0 0 * * *" # runs at every 12AM UTC
 
-
 jobs:
   update-readme:
-    name: Profile Readme Development Stats
-    uses: anmol098/waka-readme-stats@V3
+    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
