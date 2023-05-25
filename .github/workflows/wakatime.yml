@@ -30,4 +30,4 @@ jobs:
           SHOW_TIMEZONE: true
           SHOW_LANGUAGE_PER_REPO: true
           SHOW_EDITORS: true
-          SYMBOL_VERSION: 2
+          BLOCKS: 2
