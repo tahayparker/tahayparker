@@ -12,8 +12,8 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
-          GITHUB_ACTION: ${{ github.action }}
-          GITHUB_TOKEN: ${{ github.token }}
+          # GITHUB_ACTION: ${{ github.action }}
+          GH_TOKEN: ${{ github.token }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           LANG_COUNT: 10
           SHOW_COMMIT: true
