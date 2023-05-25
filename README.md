@@ -15,10 +15,6 @@ Pronouns: he/him
 
 <details>
 <summary>WakaTime Stats</summary>
-<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=tahayparker&layout=compact&theme=midnight-purple"></img></p>
-<a href="https://wakatime.com/badge/github/tahayparker/tahayparker"><img src="https://wakatime.com/badge/github/tahayparker/tahayparker.svg" alt="wakatime"></a>
-</details>
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2028%20mins-blue)
 
@@ -70,3 +66,4 @@ TypeScript               1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
  Last Updated on 25/05/2023 07:21:16 UTC
 <!--END_SECTION:waka-->
+</details>
