@@ -13,7 +13,7 @@ jobs:
       - uses: anmol098/waka-readme-stats@V3
         with:
           # GITHUB_ACTION: ${{ github.action }}
-          GH_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           LANG_COUNT: 10
           SHOW_COMMIT: true
