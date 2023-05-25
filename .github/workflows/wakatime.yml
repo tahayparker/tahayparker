@@ -1,0 +1,32 @@
+name: Waka Readme
+
+on:
+  push:
+    branches: [ master ]
+  schedule:
+    - cron: '30 5 * * *' 
+jobs:
+  update-Readme:
+    name: WakaReadme DevMetrics  
+    runs-on: ubuntu-latest
+    steps:
+      - uses: tariksahni/coding-stats-wakatime@v1.0.0
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_MONTHLY: true
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_ACTION: ${{ github.action }}
+          TIME_RANGE: all_time
+          SHOW_TIME: true
+          LANG_COUNT: 10
+          SHOW_MASKED_TIME: true
+          SHOW_TOTAL: true
+          SHOW_LINES_OF_CODE: true
+          STOP_AT_OTHER: true
+          SHOW_PROFILE_VIEWS: true
+          SHOW_LANGUAGE: true
+          SHOW_OS: true
+          SHOW_PROJECTS: true
+          SHOW_TIMEZONE: true
+          SHOW_LANGUAGE_PER_REPO: true
+          SHOW_EDITORS: true
