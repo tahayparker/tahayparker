@@ -24,18 +24,16 @@ Pronouns: he/him
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**I'm an Early 🐤** 
 
-> 📦 104.1 kB Used in GitHub's Storage 
- > 
-> 🏆 516 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 14 Public Repositories 
- > 
-> 🔑 2 Private Repositories 
- > 
+```text
+🌞 Morning                358 commits         ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.42 % 
+🌆 Daytime                604 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.82 % 
+🌃 Evening                627 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.26 % 
+🌙 Night                  8 commits           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.50 % 
+```
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -51,13 +49,6 @@ CSS                      1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 🔥 Editors: 
 Chrome                   2 hrs 30 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   70.21 % 
 VS Code                  1 hr 3 mins         ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.79 % 
-
-🐱‍💻 Projects: 
-tahayparker              3 hrs 12 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀   89.75 % 
-github-readme-stats      12 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.66 % 
-request-action           3 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.53 % 
-waka-readme-stats        1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.71 % 
-anmol098                 1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.55 % 
 
 💻 Operating System: 
 Windows                  2 hrs 30 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   70.21 % 
@@ -76,10 +67,6 @@ TypeScript               1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/tahayparker/tahayparker/main/assets/bar_graph.png)
-
-
- Last Updated on 25/05/2023 07:01:11 UTC
+ Last Updated on 25/05/2023 07:05:10 UTC
 <!--END_SECTION:waka-->
