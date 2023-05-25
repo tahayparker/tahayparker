@@ -5,12 +5,13 @@ on:
     branches: [ main ]
   schedule:
     - cron: '0 0 * * *' 
+
 jobs:
   update-Readme:
     name: WakaReadme DevMetrics  
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@V3
+      - uses: anmol098/waka-readme-stats@master
         with:
           # GITHUB_ACTION: ${{ github.action }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
