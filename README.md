@@ -15,6 +15,7 @@ Pronouns: he/him
 
 <details>
 <summary>WakaTime Stats</summary>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2028%20mins-blue)
 
