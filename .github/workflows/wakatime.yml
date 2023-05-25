@@ -22,7 +22,7 @@ jobs:
           SHOW_MASKED_TIME: true
           SHOW_TOTAL: true
           SHOW_LINES_OF_CODE: true
-          STOP_AT_OTHER: true
+          STOP_AT_OTHER: false
           SHOW_PROFILE_VIEWS: true
           SHOW_LANGUAGE: true
           SHOW_OS: true
