@@ -2,9 +2,9 @@ name: Waka Readme
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   schedule:
-    - cron: '30 5 * * *' 
+    - cron: '0 0 * * *' 
 jobs:
   update-Readme:
     name: WakaReadme DevMetrics  
