@@ -21,4 +21,10 @@ Pronouns: he/him
 
 <!--START_SECTION:waka-->
 
+```text
+Total Time: 3 hrs 34 mins
+
+Other      2 hrs 30 mins   █████████████████▓░░░░░░░   70.21 %
+```
+
 <!--END_SECTION:waka-->
