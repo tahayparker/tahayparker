@@ -25,6 +25,10 @@ Pronouns: he/him
 Total Time: 3 hrs 34 mins
 
 Other      2 hrs 30 mins   █████████████████▓░░░░░░░   70.21 %
+Markdown   46 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.54 %
+YAML       14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
+HTML       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+CSS        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
