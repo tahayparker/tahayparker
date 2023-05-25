@@ -13,26 +13,22 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
-          # GITHUB_ACTION: ${{ github.action }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          LANG_COUNT: 10
-          SHOW_COMMIT: false
-          SHOW_DAYS_OF_WEEK: false
-          SHOW_EDITORS: true
-          SHOW_LANGUAGE: true
-          SHOW_LANGUAGE_PER_REPO: true
-          SHOW_LINES_OF_CODE: true
-          SHOW_MASKED_TIME: true
-          SHOW_MONTHLY: true
-          SHOW_OS: true
-          SHOW_PROFILE_VIEWS: false
-          SHOW_PROJECTS: true
-          SHOW_TIME: true
-          SHOW_TIMEZONE: true
-          SHOW_TOTAL_CODE_TIME: true
-          SHOW_UPDATED_DATE: true
-          STOP_AT_OTHER: false
+          DEBUG_LOGGING: True
+          SHOW_COMMIT: True
+          SHOW_DAYS_OF_WEEK: False
+          SHOW_EDITORS: True
+          SHOW_LANGUAGE: True
+          SHOW_LANGUAGE_PER_REPO: True
+          SHOW_LINES_OF_CODE: True
+          SHOW_LOC_CHART: False
+          SHOW_OS: True
+          SHOW_PROFILE_VIEWS: False
+          SHOW_PROJECTS: False
+          SHOW_SHORT_INFO: False
+          SHOW_TIMEZONE: True
+          SHOW_TOTAL_CODE_TIME: True
+          SHOW_UPDATED_DATE: True
           SYMBOL_VERSION: 2
-          TIME_RANGE: all_time
           UPDATED_DATE_FORMAT: "%d/%m/%Y %H:%M:%S"
