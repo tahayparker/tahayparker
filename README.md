@@ -5,7 +5,16 @@
 Pronouns: he/him
 <details>
     <summary>GitHub Statistics</summary>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahayparker&show_icons=true&hide=stars,issues,contribs&count_private=true&theme=midnight-purple&locale=en" alt="tahayparker" /></p>
+<p align="center">
+    <a href="https://github.com/tahayparker/tahayparker">
+        <img src="https://github-readme-stats.vercel.app/api?username=tahayparker&show_icons=true&hide=stars,issues,contribs&count_private=true&theme=midnight-purple&locale=en" alt="tahayparker" />
+    </a>
+</p>
+<p align="center">
+  <a href="https://github.com/wervlad">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahayparker&theme=midnight-purple&locale=en" />
+  </a>
+    
 </details>
 
 <details>
