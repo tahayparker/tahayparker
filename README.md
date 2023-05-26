@@ -14,7 +14,7 @@ Pronouns: he/him
   <a href="https://github.com/wervlad">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahayparker&theme=midnight-purple&locale=en" />
   </a>
-    
+</p>
 </details>
 
 <details>
