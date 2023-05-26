@@ -19,7 +19,11 @@ Pronouns: he/him
 
 <details>
 <summary>Top Languages</summary>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahayparker&langs_count=10&layout=compact&theme=midnight-purple"></img></p>
+<p align="center">
+  <a href="https://github.com/tahayparker/tahayparker">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahayparker&langs_count=10&layout=compact&theme=midnight-purple" />
+  </a>
+</p>
 </details>
 
 <details>
