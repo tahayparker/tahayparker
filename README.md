@@ -75,6 +75,5 @@ Kotlin                   1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
  Last Updated on 07/06/2023 08:16:56 UTC
 <!--END_SECTION:waka-->
 
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/tahayparker/tahayparker/output/snake.svg" alt="Snake animation" />
