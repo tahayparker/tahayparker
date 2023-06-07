@@ -3,8 +3,7 @@
 📫 How to reach me: https://tahayparker.github.io/tahayparker/
 
 Pronouns: he/him
-<details>
-    <summary>GitHub Statistics</summary>
+### GitHub Statistics
 <p align="center">
     <a href="https://github.com/tahayparker/tahayparker">
         <img src="https://github-readme-stats.vercel.app/api?username=tahayparker&show_icons=true&hide=stars,issues,contribs&count_private=true&theme=midnight-purple&locale=en" alt="tahayparker" />
@@ -15,19 +14,15 @@ Pronouns: he/him
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahayparker&theme=transparent&locale=en" />
   </a>
 </p>
-</details>
 
-<details>
-<summary>Top Languages</summary>
+### Top Languages
 <p align="center">
   <a href="https://github.com/tahayparker/tahayparker">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahayparker&langs_count=10&layout=compact&theme=midnight-purple" />
   </a>
 </p>
-</details>
 
-<details>
-<summary>WakaTime Stats</summary>
+### WakaTime Stats
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2029%20mins-blue)
@@ -79,4 +74,7 @@ Kotlin                   1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
  Last Updated on 07/06/2023 08:16:56 UTC
 <!--END_SECTION:waka-->
-</details>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/tahayparker/tahayparker/output/snake.svg" alt="Snake animation" />
