@@ -4,19 +4,19 @@
 
 Pronouns: he/him
 ### GitHub Statistics
-<p align="center">
+<p>
     <a href="https://github.com/tahayparker/tahayparker">
         <img src="https://github-readme-stats.vercel.app/api?username=tahayparker&show_icons=true&hide=stars,issues,contribs&count_private=true&theme=midnight-purple&locale=en" alt="tahayparker" />
     </a>
 </p>
-<p align="center">
+<p>
   <a href="https://github.com/tahayparker/tahayparker">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahayparker&theme=transparent&locale=en" />
   </a>
 </p>
 
 ### Top Languages
-<p align="center">
+<p>
   <a href="https://github.com/tahayparker/tahayparker">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahayparker&langs_count=10&layout=compact&theme=midnight-purple" />
   </a>
