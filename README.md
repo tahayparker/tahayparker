@@ -7,7 +7,7 @@ Pronouns: he/him
     <summary>GitHub Statistics</summary>
 <p align="center">
     <a href="https://github.com/tahayparker/tahayparker">
-        <img src="https://github-readme-stats.vercel.app/api?username=tahayparker&show_icons=true&hide=stars,issues,contribs&count_private=true&theme=midnight-purple&locale=en" alt="tahayparker" />
+        <img src="https://github-readme-stats.vercel.app/api?username=tahayparker&show_icons=true&hide=stars,issues,contribs&count_private=true&theme=midnight-purple&locale=en&include_all_commits=true" alt="tahayparker" />
     </a>
 </p>
 <p align="center">
