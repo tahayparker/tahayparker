@@ -73,4 +73,4 @@ Ruby                     1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 
-![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/tahayparker/tahayparker/output/github-contribution-grid-snake-dark.svg)
