@@ -3,6 +3,9 @@ name: Waka Readme
 on:
   schedule:
     - cron: '0 0,4,8,12,16,20 * * *' 
+  # allows to manually run the job at any time
+  workflow_dispatch:
+
 
 jobs:
   update-Readme:
