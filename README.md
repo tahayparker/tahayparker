@@ -25,7 +25,7 @@ Pronouns: he/him
 ### WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%208%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.8%20thousand%20lines%20of%20code-blue)
 
@@ -70,7 +70,7 @@ Ruby                     1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 11/02/2024 16:15:07 UTC
+ Last Updated on 11/02/2024 20:12:42 UTC
 <!--END_SECTION:waka-->
 
 
