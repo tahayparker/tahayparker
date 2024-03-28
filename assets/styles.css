@@ -17,6 +17,10 @@ body {
     position: relative;
 }
 
+.a {
+    color: rgba(255,255,255,0);
+}
+
 .content {
     text-align: center;
     position: relative;
