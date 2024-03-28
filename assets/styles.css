@@ -1,117 +1,118 @@
-      * {
-        box-sizing: border-box;
-      }
+* {
+    box-sizing: border-box;
+}
 
-      html,
-      body {
-        font-family: "Space Mono", "Courier", monospace;
-        font-size: 15px;
-        height: 100%;
-        margin: 0;
-        padding: 0;
-        background-color: #0B1215
-      }
+html,
+body {
+    font-family: "SpaceMono", "Courier", monospace;
+    font-size: 15px;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #0B1215;
+}
 
-      .container {
-        height: 100%;
-        position: relative;
-      }
+.container {
+    height: 100%;
+    position: relative;
+}
 
-      .content {
-        text-align: center;
-        position: relative;
-        top: 50%;
-        transform: translateY(-50%);
-      }
+.content {
+    text-align: center;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
 
-     .content#name,
-     .content#age {
-         color: white;
+.content#name,
+.content#age {
+    color: white;
 }
 
 
-      .social-icons {
-        margin-top: 20px;
-      }
+.social-icons {
+    margin-top: 20px;
+}
 
-      .social-icons a {
-        text-decoration: none;
-      }
+.social-iconsa {
+    text-decoration: none;
+}
 
-      .social-icons i {
-        margin: 0 10px;
-        font-size: 24px;
-        color: #0077b5;
-        cursor: pointer;
-      }
+.social-iconsi {
+    margin: 010px;
+    font-size: 24px;
+    color: #0077b5;
+    cursor: pointer;
+}
 
-      .social-icons i.fab.fa-google {
-        color: #ff8b8b;
-      }
+.social-iconsi.fab.fa-google {
+    color: #ff8b8b;
+}
 
-      .social-icons i.fab.fa-x-twitter {
-        color: #000000;
-      }
+.social-iconsi.fab.fa-x-twitter {
+    color: #000000;
+}
 
-      .social-icons i.fab.fa-github {
-        color: #000000;
-      }
+.social-iconsi.fab.fa-github {
+    color: #000000;
+}
 
-      .confetti-container {
-        width: 100%;
-        height: 100%;
-        position: fixed;
-        top: 0;
-        left: 0;
-        pointer-events: none;
-      }
+.confetti-container {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+}
 
-      @keyframes confetti-fall {
-        0% {
-          transform: translateY(0);
-        }
-        100% {
-          transform: translateY(100vh);
-        }
-      }
+@keyframesconfetti-fall {
+    0% {
+        transform: translateY(0);
+    }
 
-      .confetti {
-        position: absolute;
-        width: 8px;
-        height: 8px;
-        opacity: 0.8;
-        border-radius: 50%;
-        animation: confetti-fall 2s linear infinite;
-      }
+    100% {
+        transform: translateY(100vh);
+    }
+}
 
-      .confetti-blue {
-        background: #3498db;
-      }
+.confetti {
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    opacity: 0.8;
+    border-radius: 50%;
+    animation: confetti-fall2slinearinfinite;
+}
 
-      .confetti-red {
-        background: #e74c3c;
-      }
+.confetti-blue {
+    background: #3498db;
+}
 
-      .confetti-yellow {
-        background: #f1c40f;
-      }
+.confetti-red {
+    background: #e74c3c;
+}
 
-      .confetti-green {
-        background: #2ecc71;
-      }
+.confetti-yellow {
+    background: #f1c40f;
+}
 
-      .confetti-purple {
-        background: #9b59b6;
-      }
+.confetti-green {
+    background: #2ecc71;
+}
 
-      .confetti-orange {
-        background: #e67e22;
-      }
+.confetti-purple {
+    background: #9b59b6;
+}
 
-      .resume {
-        position: absolute;
-        bottom: 10px;
-        width: 100%;
-        text-align: center;
-        color: #000000;
-      }
+.confetti-orange {
+    background: #e67e22;
+}
+
+.resume {
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    text-align: center;
+    color: #000000;
+}
