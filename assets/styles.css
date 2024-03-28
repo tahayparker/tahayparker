@@ -24,6 +24,12 @@
         transform: translateY(-50%);
       }
 
+     .content#name,
+     .content#age {
+         color: white;
+}
+
+
       .social-icons {
         margin-top: 20px;
       }
