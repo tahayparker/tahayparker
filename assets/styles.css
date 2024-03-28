@@ -41,20 +41,7 @@ body {
 .social-iconsi {
     margin: 010px;
     font-size: 24px;
-    color: #0077b5;
     cursor: pointer;
-}
-
-.social-iconsi.fab.fa-google {
-    color: #ff8b8b;
-}
-
-.social-iconsi.fab.fa-x-twitter {
-    color: #000000;
-}
-
-.social-iconsi.fab.fa-github {
-    color: #000000;
 }
 
 .confetti-container {
