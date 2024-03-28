@@ -45,57 +45,56 @@ body {
     cursor: pointer;
 }
 
-.confetti-container {
+  .confetti-container {
     width: 100%;
     height: 100%;
     position: fixed;
     top: 0;
     left: 0;
     pointer-events: none;
-}
+  }
 
-@keyframesconfetti-fall {
+  @keyframes confetti-fall {
     0% {
-        transform: translateY(0);
+      transform: translateY(0);
     }
-
     100% {
-        transform: translateY(100vh);
+      transform: translateY(100vh);
     }
-}
+  }
 
-.confetti {
+  .confetti {
     position: absolute;
     width: 8px;
     height: 8px;
     opacity: 0.8;
     border-radius: 50%;
-    animation: confetti-fall2slinearinfinite;
-}
+    animation: confetti-fall 2s linear infinite;
+  }
 
-.confetti-blue {
+  .confetti-blue {
     background: #3498db;
-}
+  }
 
-.confetti-red {
+  .confetti-red {
     background: #e74c3c;
-}
+  }
 
-.confetti-yellow {
+  .confetti-yellow {
     background: #f1c40f;
-}
+  }
 
-.confetti-green {
+  .confetti-green {
     background: #2ecc71;
-}
+  }
 
-.confetti-purple {
+  .confetti-purple {
     background: #9b59b6;
-}
+  }
 
-.confetti-orange {
+  .confetti-orange {
     background: #e67e22;
-}
+  }
 
 .resume {
     position: absolute;
