@@ -3,6 +3,8 @@
 📫 How to reach me: tahayparker@gmail.com
 
 Pronouns: he/him
+<details>
+  <summary>Stats</summary>
 ### GitHub Statistics
 <p>
   <a href="https://github.com/tahayparker/tahayparker">
@@ -62,6 +64,6 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
  Last Updated on 23/04/2024 12:25:28 UTC
 <!--END_SECTION:waka-->
-
+</details>
 
 ![Snake animation](https://raw.githubusercontent.com/tahayparker/tahayparker/output/github-contribution-grid-snake-dark.svg)
