@@ -5,6 +5,7 @@
 Pronouns: he/him
 <details>
   <summary>Stats</summary>
+  
 ### GitHub Statistics
 <p>
   <a href="https://github.com/tahayparker/tahayparker">
