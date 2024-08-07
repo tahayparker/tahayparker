@@ -27,7 +27,7 @@ jobs:
           SHOW_OS: True
           SHOW_PROFILE_VIEWS: False
           SHOW_PROJECTS: False
-          SHOW_SHORT_INFO: False
+          SHOW_SHORT_INFO: True
           SHOW_TIMEZONE: True
           SHOW_TOTAL_CODE_TIME: True
           SHOW_UPDATED_DATE: True
