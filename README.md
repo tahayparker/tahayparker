@@ -24,6 +24,8 @@ Pronouns: he/him
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 2,386 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 18 Public Repositories 
@@ -68,7 +70,7 @@ C                        1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 31/07/2025 09:50:59 UTC
+ Last Updated on 01/08/2025 04:43:54 UTC
 <!--END_SECTION:waka-->
 </details>
 
