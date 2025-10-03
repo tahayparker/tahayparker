@@ -9,7 +9,7 @@ Pronouns: he/him
 ### GitHub Statistics
 <p>
   <a href="https://github.com/tahayparker/tahayparker">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahayparker&theme=aura_dark&locale=en" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahayparker&theme=midnight_purple&locale=en" />
   </a>
 </p>
 
