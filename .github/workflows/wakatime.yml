@@ -3,6 +3,7 @@ name: Waka Readme
 on:
   schedule:
     - cron: '0 0 * * *' 
+      timezone: "Australia/Sydney"
   # allows to manually run the job at any time
   workflow_dispatch:
 
