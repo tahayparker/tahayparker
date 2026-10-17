@@ -20,13 +20,13 @@ Pronouns: he/him
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-72%20hrs%201%20min-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-105.76%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53.25%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 4.1 MB Used in GitHub's Storage 
+> 📦 4.2 MB Used in GitHub's Storage 
  > 
-> 🏆 26,670 Contributions in the Year 2026
+> 🏆 26,672 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -37,10 +37,10 @@ Pronouns: he/him
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                69248 commits       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.75 % 
-🌆 Daytime                32351 commits       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.49 % 
-🌃 Evening                167979 commits      ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.50 % 
-🌙 Night                  319744 commits      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   54.26 % 
+🌞 Morning                67770 commits       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.60 % 
+🌆 Daytime                30917 commits       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.29 % 
+🌃 Evening                167146 commits      ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.62 % 
+🌙 Night                  318145 commits      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   54.48 % 
 ```
 
 
@@ -48,28 +48,27 @@ Pronouns: he/him
 
 ```text
 💬 Programming Languages: 
-Other                    5 hrs 51 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   74.36 % 
-Python                   1 hr 15 mins        ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.99 % 
-Markdown                 16 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.59 % 
-JSON                     16 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.41 % 
-Kotlin                   11 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.43 % 
+Other                    5 hrs 40 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀   79.37 % 
+Python                   55 mins             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.02 % 
+Markdown                 11 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.72 % 
+Kotlin                   11 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.68 % 
+JSON                     8 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.97 % 
 
 🔥 Editors: 
-Antigravity CLI          4 hrs 50 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   61.44 % 
-VS Code                  1 hr 35 mins        ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.25 % 
-Chrome                   1 hr 26 mins        ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.31 % 
+Antigravity CLI          4 hrs 50 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   67.74 % 
+Chrome                   1 hr 15 mins        ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.56 % 
+VS Code                  1 hr 3 mins         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.69 % 
 
 💻 Operating System: 
-Windows                  7 hrs 39 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   97.07 % 
-Linux                    13 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.93 % 
+Windows                  7 hrs 9 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 53 mins (62.08%)
+⏱ AI Coding Time: 4 hrs 53 mins (68.45%)
 
-✍️ 8,092 lines written by AI, 533 lines written by hand (93.82% AI-written)
+✍️ 8,092 lines written by AI, 419 lines written by hand (95.08% AI-written)
 
 🔤 8,676,845 Input Tokens, 478,589 Output Tokens
 
@@ -80,10 +79,10 @@ Linux                    13 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 Gemini                   8,092 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.82% of written lines came from AI
+🤖 AI-Driven — 95.08% of written lines came from AI
 📝 Concise Prompter — average 115 characters per prompt
 🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 8.43% of changed lines were hand-edited
+🚀 High AI Trust — 7.21% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -99,7 +98,7 @@ PowerShell               2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 16/10/2026 20:33:19 UTC
+ Last Updated on 17/10/2026 19:03:12 UTC
 <!--END_SECTION:waka-->
 </details>
 
